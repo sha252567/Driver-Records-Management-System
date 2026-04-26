@@ -1,0 +1,51 @@
+TVID,DID,DLN,Plate Number,Time,Date,Location,Type,Description,Penalty Type,Penalty Status,Fines Paid,Personal Damage,Personal Injury,Reporting Officer,Officer's Division
+TV3030,D1000,DL1000,PAB3494,14:36,05/01/2026,Diamond,DUI,Operating vehicle while BAC exceeded legal limit; no damage or injury reported.,Fine,Contested,FALSE,Yes,No,Insp. Adams,Region 3 Division
+TV3042,D1000,DL1000,PAG3494,01:07,12/03/2026,Enmore,Speeding,Vehicle exceeded posted speed limit; incident resulted in personal injury.,Warning,NULL,NULL,No,Yes,Sgt. Daniels,Region 4B Division
+TV3028,D1001,DL1001,CJ7806,11:15,18/06/2025,Parika,DUI,Alcohol-impaired driving detected; no injuries or property damage reported.,Fine,Unpaid,FALSE,No,No,Sgt. Daniels,Region 3 Division
+TV3044,D1001,DL1001,CJ7806,02:11,22/12/2025,Linden,Speeding,Excessive speed on public road; incident involved personal injury.,Ticket,Contested,FALSE,No,Yes,Cpl. Fraser,Region 3 Division
+TV3048,D1002,DL1002,PVV6372,04:26,10/11/2025,Parika,Illegal Parking,"Vehicle left in prohibited zone, obstructing traffic flow.",Ticket,Partial,FALSE,No,No,Insp. Adams,Region 3 Division
+TV3027,D1004,DL1004,GAB3431,04:34,15/01/2026,Parika,Traffic Signals Violation,Failure to obey traffic signal; resulted in property damage.,Warning,NULL,NULL,Yes,No,Insp. Adams,Region 4A Division
+TV3004,D1005,DL1005,BAD5585,23:51,04/09/2025,Parika,Speeding,Velocity above legal limit; no reported damage or injury.,Ticket,Contested,FALSE,No,No,Const. Singh,Region 4B Division
+TV3045,D1005,DL1005,BAD5585,05:42,01/06/2025,New Amsterdam,DUI,Driver under influence; no property damage or injury.,Fine,Contested,FALSE,No,No,Sgt. Daniels,Region 4B Division
+TV3032,D1006,DL1006,BAC5733,01:33,14/03/2026,Linden,Traffic Signals Violation,Disregarded traffic signal; resulted in property damage.,Ticket,Unpaid,FALSE,Yes,Yes,Insp. Adams,Region 3 Division
+TV3001,D1008,DL1008,GAC4553,03:05,22/10/2025,New Amsterdam,Speeding,Speeding violation; incident resulted in personal injury.,Ticket,Paid,TRUE,No,Yes,Sgt. Daniels,Region 4A Division
+TV3041,D1008,DL1008,GAC4553,22:50,03/08/2025,New Amsterdam,Traffic Signals Violation,Red light violation; resulted in property damage.,Ticket,Waived,FALSE,Yes,No,Const. Singh,Region 4A Division
+TV3012,D1009,DL1009,GAH9462,10:24,20/02/2026,Enmore,Illegal Parking,Stationary vehicle in no-parking zone.,Warning,NULL,NULL,No,No,Const. Singh,Region 4A Division
+TV3038,D1011,DL1011,GAH9462,01:39,11/05/2025,Parika,Speeding,Driving above posted speed limit; no injuries reported.,Warning,NULL,NULL,No,No,Insp. Adams,Region 4B Division
+TV3049,D1012,DL1012,PAH3627,20:23,05/01/2026,Georgetown,Speeding,High speed violation; resulted in personal injury.,Warning,NULL,NULL,No,Yes,Const. Singh,Region 3 Division
+TV3019,D1014,DL1014,BAD3607,06:02,20/12/2025,Anna Regina,Illegal Parking,Unauthorized parking; incident resulted in personal injury.,Ticket,Waived,FALSE,Yes,Yes,Insp. Adams,Region 4B Division
+TV3046,D1016,DL1016,BAD2973,11:22,07/07/2025,Parika,DUI,Impaired driving; resulted in personal injury.,Fine,Paid,TRUE,No,Yes,Insp. Adams,Region 4B Division
+TV3021,D1017,DL1017,HC8123,13:45,15/10/2025,Anna Regina,Speeding,Speeding offense; resulted in personal injury.,Warning,NULL,NULL,No,Yes,Insp. Adams,Region 4A Division
+TV3031,D1017,DL1017,HC8123,05:11,10/11/2025,Parika,Traffic Signals Violation,Traffic light violation; resulted in property damage.,Warning,NULL,NULL,Yes,No,Cpl. Fraser,Region 3 Division
+TV3039,D1017,DL1017,HC8123,19:47,20/01/2026,Anna Regina,Traffic Signals Violation,Signal disregard; resulted in property damage.,Ticket,Partial,FALSE,Yes,No,Sgt. Daniels,Region 3 Division
+TV3017,D1020,DL1020,PAE2516,21:59,15/09/2025,Diamond,Traffic Signals Violation,Failed to stop at signal; no damage or injury.,Warning,NULL,NULL,No,No,Cpl. Fraser,Region 4A Division
+TV3006,D1021,DL1021,PAG3617,03:47,10/06/2025,Bartica,Illegal Parking,Parking in prohibited area.,Ticket,Waived,FALSE,No,No,Sgt. Daniels,Region 3 Division
+TV3033,D1021,DL1021,PAH3526,14:02,22/11/2025,Diamond,Illegal Parking,Vehicle obstructing roadway.,Ticket,Waived,FALSE,No,Yes,Sgt. Daniels,Region 3 Division
+TV3025,D1022,DL1022,PAE6278,15:03,01/01/2026,Anna Regina,Illegal Parking,Illegal parking; resulted in property damage and injury.,Warning,NULL,NULL,Yes,Yes,Const. Singh,Region 3 Division
+TV3011,D1023,DL1023,PZZ5263,12:57,14/02/2026,Bartica,DUI,Driving under influence; resulted in property damage and injury.,Fine,Waived,FALSE,Yes,Yes,Sgt. Daniels,Region 4B Division
+TV3037,D1023,DL1023,PWW2538,12:13,25/08/2025,New Amsterdam,Illegal Parking,Unauthorized parking on main road.,Ticket,Contested,FALSE,No,No,Sgt. Daniels,Region 4B Division
+TV3013,D1024,DL1024,HC8157,09:37,15/03/2026,New Amsterdam,Illegal Parking,Parking obstruction; resulted in property damage.,Ticket,Partial,FALSE,Yes,No,Sgt. Daniels,Region 4A Division
+TV3024,D1024,DL1024,PAE7835,04:58,10/01/2026,Parika,Speeding,Violation of speed regulations.,Warning,NULL,NULL,No,No,Insp. Adams,Region 4B Division
+TV3043,D1025,DL1025,PAK9856,03:37,05/06/2025,Enmore,Illegal Parking,Illegal parking; resulted in property damage.,Ticket,Partial,FALSE,Yes,Yes,Cpl. Fraser,Region 4A Division
+TV3036,D1027,DL1027,PAG5246,08:04,20/09/2025,Linden,Traffic Signals Violation,Signal violation; resulted in personal injury.,Ticket,Paid,TRUE,No,Yes,Sgt. Daniels,Region 4B Division
+TV3010,D1028,DL1028,PVV3526,20:19,11/11/2025,Bartica,DUI,Impaired driving detected.,Fine,Unpaid,FALSE,No,No,Cpl. Fraser,Region 3 Division
+TV3047,D1028,DL1028,PXX4536,15:33,20/12/2025,Anna Regina,DUI,Driving under the influence.,Fine,Waived,FALSE,No,No,Cpl. Fraser,Region 4A Division
+TV3034,D1029,DL1029,PAD2819,22:25,15/07/2025,Parika,Speeding,Speeding violation; resulted in personal injury.,Warning,NULL,NULL,No,Yes,Cpl. Fraser,Region 4B Division
+TV3008,D1030,DL1030,CG6124,01:44,10/03/2026,Enmore,Illegal Parking,Parking violation; resulted in property damage and injury.,Ticket,Paid,TRUE,Yes,Yes,Insp. Adams,Region 4B Division
+TV3009,D1030,DL1030,CG6124,19:10,25/11/2025,Anna Regina,Speeding,Excessive speed on highway.,Warning,NULL,NULL,No,No,Cpl. Fraser,Region 3 Division
+TV3026,D1031,DL1031,PAH9822,05:43,05/02/2026,Bartica,Illegal Parking,Prohibited parking area.,Ticket,Partial,FALSE,No,Yes,Const. Singh,Region 4B Division
+TV3018,D1033,DL1033,GAB1723,17:50,14/06/2025,New Amsterdam,Speeding,High speed citation.,Ticket,Unpaid,FALSE,No,No,Sgt. Daniels,Region 4B Division
+TV3016,D1037,DL1037,GAH1239,21:22,10/01/2026,Diamond,Traffic Signals Violation,Disregarded traffic signal; resulted in damage and injury.,Ticket,Contested,FALSE,Yes,Yes,Cpl. Fraser,Region 3 Division
+TV3035,D1037,DL1037,GAH1239,21:17,15/08/2025,Anna Regina,DUI,Driving while impaired.,Fine,Partial,FALSE,No,No,Sgt. Daniels,Region 4A Division
+TV3005,D1038,DL1038,BAC8850,10:02,22/10/2025,New Amsterdam,Illegal Parking,Parking violation; resulted in personal injury.,Warning,NULL,NULL,No,Yes,Insp. Adams,Region 3 Division
+TV3029,D1039,DL1039,BAH6351,20:23,05/04/2026,Bartica,Speeding,Vehicle speed above limit; resulted in personal injury.,Warning,NULL,NULL,No,Yes,Sgt. Daniels,Region 3 Division
+TV3015,D1040,DL1040,BAD4760,00:27,12/12/2025,Parika,Illegal Parking,Unauthorized parking; resulted in personal injury.,Ticket,Waived,FALSE,No,Yes,Cpl. Fraser,Region 3 Division
+TV3003,D1041,DL1041,PAD3627,16:29,15/06/2025,Diamond,Illegal Parking,Parking obstruction; resulted in personal injury.,Ticket,Unpaid,FALSE,No,Yes,Cpl. Fraser,Region 3 Division
+TV3007,D1042,DL1042,PAE2578,20:44,01/03/2026,Bartica,Speeding,Speeding citation.,Warning,NULL,NULL,No,No,Const. Singh,Region 4A Division
+TV3014,D1042,DL1042,PAE2578,12:03,20/09/2025,Parika,DUI,Operating vehicle under influence; resulted in property damage.,Fine,Waived,FALSE,Yes,Yes,Const. Singh,Region 4A Division
+TV3023,D1043,DL1043,PAG3526,07:53,10/01/2026,Linden,DUI,Drunk driving citation; resulted in property damage.,Fine,Unpaid,FALSE,Yes,No,Insp. Adams,Region 4B Division
+TV3020,D1045,DL1045,PAI3483,08:15,15/07/2025,Linden,Illegal Parking,Illegal parking; resulted in property damage and injury.,Warning,NULL,NULL,Yes,Yes,Const. Singh,Region 4A Division
+TV3040,D1045,DL1045,PAI3483,02:45,05/11/2025,Bartica,Traffic Signals Violation,Signal violation; resulted in personal injury.,Ticket,Waived,FALSE,No,Yes,Cpl. Fraser,Region 3 Division
+TV3000,D1048,DL1048,PAH2626,15:41,20/02/2026,Georgetown,Illegal Parking,Illegal parking; resulted in property damage.,Ticket,Paid,TRUE,Yes,No,Sgt. Daniels,Region 3 Division
+TV3022,D1048,DL1048,PAH2626,13:23,10/06/2025,Bartica,Illegal Parking,Parking violation.,Ticket,Contested,FALSE,No,No,Const. Singh,Region 3 Division
+TV3002,D1049,DL1049,CJ2516,17:25,15/03/2026,New Amsterdam,Illegal Parking,Illegal parking; resulted in personal injury.,Warning,NULL,NULL,No,Yes,Insp. Adams,Region 4A Division

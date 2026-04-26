@@ -1,0 +1,51 @@
+AID,DID,DLN,Plate Number,Type,Description,Location,Time,Date,No. Passengers,Seat belts?,No. Injured,No. Fatalities,Reporting Officer,Officer's Division
+A4000,D1049,DL2047,HC3829,Negligent Driver,Side-swipe at traffic light; seat belts prevented fatalities.,Georgetown,13:37,16/11/2019,5,Yes,2,0,Cpl. Fraser,Regional Division #4A
+A4001,D1022,DL2021,PRR3728,Reckless Driving,Rear-end collision; seat belt use limited injury severity.,New Amsterdam,13:00,28/04/2019,3,Yes,1,0,Cpl. Fraser,Regional Division #6
+A4002,D1013,DL2009,CG4149,Other,Skidded into trench; occupant was safely buckled.,Anna Regina,05:45,17/12/2007,0,NULL,1,0,Cpl. Fraser,Regional Division #2
+A4003,D1017,DL2015,PWW3627,Other,Failed merge; unrestrained passengers sustained trauma.,Georgetown,01:55,13/01/2020,4,No,3,2,Sgt. Daniels,Regional Division #4B
+A4004,D1035,DL2030,CJ1164,Reckless Driving,Lorry collision; cabin failure; seat belt kept driver in seat.,Linden,13:13,17/04/2009,0,NULL,1,2,Cpl. Fraser,Regional Division #10
+A4005,D1018,DL2016,PXX3627,Negligent Driver,T-bone impact; fatal impact occurred despite seat belt use.,Georgetown,11:11,07/11/2024,3,Yes,1,0,Cpl. Fraser,Regional Division #4A
+A4006,D1022,DL2022,PRR3728,Reckless Driving,Struck utility pole; seat belt saved driver's life.,Anna Regina,10:34,18/06/2022,2,Yes,1,0,Const. Singh,Regional Division #2
+A4007,D1036,DL2034,GAC9448,Other,Pedestrian strike; belted driver escaped without harm.,Parika,05:22,14/10/2024,1,Yes,1,1,Const. Singh,Regional Division #3
+A4008,D1030,DL2028,CG6124,Other,Overturned avoiding animal; seat belt use was not recorded.,Diamond,22:13,11/04/2021,1,NULL,1,0,Insp. Adams,Regional Division #4B
+A4009,D1007,DL2005,GAB9601,Reckless Driving,Hit culvert; seat belt protected driver from ejection.,New Amsterdam,21:27,13/07/2023,1,Yes,1,0,Insp. Adams,Regional Division #6
+A4010,D1028,DL2026,PAJ2617,Hit and Run,Hit and run; rider was unbelted and unprotected.,Enmore,20:27,08/07/2022,4,No,1,2,Cpl. Fraser,Regional Division #4C
+A4011,D1045,DL2039,GAG3831,Reckless Driving,Hit fence; driver hit steering wheel due to lack of belt.,Parika,07:44,20/09/2020,1,No,0,0,Cpl. Fraser,Regional Division #3
+A4012,D1006,DL2003,BAC5733,Hit and Run,Head-on crash; seat belts saved all passengers.,Parika,03:21,12/04/2025,6,Yes,1,0,Cpl. Fraser,Regional Division #3
+A4013,D1048,DL2044,CJ5678,Negligent Driver,Brake failure; belted driver sustained minor impact injuries.,Linden,13:04,18/07/2025,1,Yes,1,0,Cpl. Fraser,Regional Division #10
+A4014,D1013,DL2010,CG4149,Hit and Run,Hit truck; seat belt use not confirmed by reporting officer.,Parika,16:55,15/11/2010,0,NULL,1,1,Const. Singh,Regional Division #3
+A4015,D1021,DL2019,PAG2637,Negligent Driver,Rollover; driver survived despite not wearing a seat belt.,Enmore,10:11,14/07/2020,1,No,1,0,Insp. Adams,Regional Division #4C
+A4016,D1035,DL2031,CJ1164,Hit and Run,Roof crushed; seat belt held driver during structural failure.,Parika,10:18,10/08/2010,0,NULL,1,1,Cpl. Fraser,Regional Division #3
+A4017,D1018,DL2017,PXX3627,Other,Side-swipe; belted passengers remained safe.,Georgetown,08:45,15/02/2026,2,Yes,0,0,Insp. Adams,Regional Division #4A
+A4018,D1042,DL2037,PAE3728,Reckless Driving,Plunged down embankment; unbelted occupants ejected.,Linden,19:30,11/06/2021,4,No,2,2,Sgt. Daniels,Regional Division #10
+A4019,D1045,DL2040,PAI3483,Other,Reversing collision; belted driver suffered minor whiplash.,New Amsterdam,10:16,11/11/2025,1,Yes,0,0,Cpl. Fraser,Regional Division #6
+A4020,D1025,DL2023,PAK9856,Negligent Driver,Median crossover; seat belts prevented further casualties.,Enmore,10:58,06/04/2026,3,No,1,4,Cpl. Fraser,Regional Division #4C
+A4021,D1045,DL2041,PAI3483,Reckless Driving,Hit concrete wall; unbelted driver suffered severe trauma.,Diamond,04:08,01/02/2026,2,No,1,2,Const. Singh,Regional Division #4B
+A4022,D1006,DL2004,BAC5733,Hit and Run,Control lost; unbelted passenger sustained fatal head injury.,New Amsterdam,03:14,02/03/2026,4,No,1,1,Const. Singh,Regional Division #6
+A4023,D1015,DL2012,BAD2973,Other,Fell into water; seat belts helped passengers stay seated.,Parika,05:28,11/06/2025,10,Yes,1,0,Cpl. Fraser,Regional Division #3
+A4024,D1049,DL2048,HC3829,Hit and Run,Hit by lorry; seat belts prevented fatalities in totaled car.,Georgetown,09:42,12/05/2021,5,Yes,2,0,Cpl. Fraser,Regional Division #4A
+A4025,D1026,DL2024,PAL3728,Reckless Driving,Junction collision; seat belts limited the injury severity.,Enmore,12:15,30/11/2019,4,Yes,1,0,Insp. Adams,Regional Division #4C
+A4026,D1021,DL2020,PAG2637,Negligent Driver,Hit sign; unrestrained passenger suffered major trauma.,New Amsterdam,01:50,21/09/2025,4,No,2,1,Insp. Adams,Regional Division #6
+A4027,D1029,DL2027,PAM2718,Negligent Driver,Bus impact; unbelted driver sustained serious injuries.,Anna Regina,12:57,25/01/2022,4,No,1,2,Insp. Adams,Regional Division #2
+A4028,D1014,DL2011,BAD3607,Hit and Run,Hit group of people; belted driver was unhurt.,Parika,08:22,02/05/2025,3,Yes,1,1,Const. Singh,Regional Division #3
+A4029,D1038,DL2035,BAC8850,Other,Head-on in fog; seat belt saved the buckled driver.,Linden,03:55,26/11/2024,7,Yes,1,1,Insp. Adams,Regional Division #10
+A4030,D1001,DL2000,CJ7806,Other,Broadside collision; unrestrained occupants killed on impact.,New Amsterdam,21:38,15/01/2019,0,NULL,1,2,Insp. Adams,Regional Division #6
+A4031,D1011,DL2008,PAE4532,Reckless Driving,Rollover; belted passengers were protected from ejection.,Bartica,21:00,10/08/2022,3,Yes,1,0,Insp. Adams,Regional Division #7
+A4032,D1026,DL2025,PAL3728,Negligent Driver,Guardrail scrape; airbags and seat belts deployed effectively.,Georgetown,20:05,01/11/2025,2,Yes,1,0,Sgt. Daniels,Regional Division #4A
+A4033,D1048,DL2045,PZZ4738,Reckless Driving,Night crash; unrestrained riders suffered impact trauma.,Georgetown,22:06,08/05/2026,2,No,1,2,Sgt. Daniels,Regional Division #4A
+A4034,D1043,DL2038,PXX3647,Negligent Driver,Rear-end bump; belted occupants sustained no harm.,Diamond,00:41,16/07/2021,2,Yes,0,0,Const. Singh,Regional Division #4B
+A4035,D1005,DL2002,BAD5585,Reckless Driving,Struck cow; roof collapsed; seat belt saved driver.,Diamond,03:21,30/01/2025,12,Yes,0,1,Cpl. Fraser,Regional Division #4B
+A4036,D1015,DL2013,BAH5616,Other,Parking collision; belted occupants remained safe.,Georgetown,01:15,12/02/2026,5,Yes,0,0,Insp. Adams,Regional Division #4A
+A4037,D1040,DL2036,BAD4760,Hit and Run,Hit while changing tyre; belted occupant inside car safe.,Parika,12:20,30/05/2025,8,Yes,1,0,Insp. Adams,Regional Division #3
+A4038,D1032,DL2029,BAC2826,Hit and Run,Bus collision; seat belts failed to prevent fatal impact.,Anna Regina,06:38,18/07/2023,5,Yes,0,2,Const. Singh,Regional Division #2
+A4039,D1047,DL2042,PAK9131,Other,Landslide; seat belt kept driver inside the sliding vehicle.,Bartica,14:10,02/12/2025,3,Yes,1,0,Const. Singh,Regional Division #7
+A4040,D1049,DL2049,HC3829,Negligent Driver,Grazed vehicle; belted passengers unaffected.,Linden,19:34,22/11/2024,4,No,0,0,Insp. Adams,Regional Division #10
+A4041,D1048,DL2046,CJ5678,Negligent Driver,Slipped on gravel; buckled passengers remained secure.,Bartica,06:49,08/02/2022,1,Yes,0,0,Sgt. Daniels,Regional Division #7
+A4042,D1047,DL2043,CG6503,Negligent Driver,Hit pole; belted occupants safe during low-speed impact.,Linden,19:36,26/06/2021,1,Yes,0,0,Sgt. Daniels,Regional Division #10
+A4043,D1035,DL2032,CJ1164,Negligent Driver,Hit motorcycle; rider was not buckled or protected.,New Amsterdam,16:26,09/06/2011,1,NULL,0,0,Insp. Adams,Regional Division #6
+A4044,D1015,DL2014,BAH5616,Reckless Driving,Sudden braking; unbelted driver nearly hit steering wheel.,Linden,10:33,01/04/2026,9,No,0,0,Const. Singh,Regional Division #10
+A4045,D1004,DL2001,GAB3431,Reckless Driving,Sudden stop; unbelted driver hit dashboard.,Parika,07:14,25/04/2022,1,No,0,0,Cpl. Fraser,Regional Division #3
+A4046,D1020,DL2018,PYY2718,Negligent Driver,Glancing blow; buckled occupants were safe.,Anna Regina,13:34,12/10/2022,5,Yes,0,0,Sgt. Daniels,Regional Division #2
+A4047,D1010,DL2007,PAB3452,Negligent Driver,Hit stray dog; belted passengers sustained no harm.,New Amsterdam,09:41,17/06/2023,3,Yes,0,0,Cpl. Fraser,Regional Division #6
+A4048,D1009,DL2006,GAH9462,Other,Flipped on hill; unbelted passengers thrown about cabin.,Bartica,05:28,07/12/2025,1,No,2,0,Cpl. Fraser,Regional Division #7
+A4049,D1035,DL2033,CJ1164,Other,Crashed into lorry; seat belt use not confirmed.,Diamond,08:23,15/12/2025,0,NULL,2,0,Const. Singh,Regional Division #4B
